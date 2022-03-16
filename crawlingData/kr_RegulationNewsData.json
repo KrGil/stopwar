@@ -1,50 +1,82 @@
-[
-  {
-    "title": "규제",
-    "content": "블라디미르 푸틴 러시아 대통령이 외교적, 군사적 수단을 가리지 않고 우크라이나에서 목표를 달성하겠다는 의지를 에마뉘엘 마크롱 프랑스 대통령에게 피력했다는 외신 보도가 나왔다.",
-    "link": "https://news.imaeil.com/page/view/2022030707253006035",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "규제",
-    "content": "관세청은 우크라이나 분쟁 사태로 어려움을 겪는 수출입 기업에 대해 관세 납부기한을 15일에서 1년으로 연장하는 등 관세행정 종합대책을 시행한다고 7일 밝혔다. 러시아나 우크라이나 소재 기업과 직접 수출입 거래를 하고 있는 기업뿐 아니라 분쟁 여파에 따른 원자재 가격 상승, 수급 불안, 물류 지체로 간접적인 피해를 받은 수출입 기업까지 지원 대상에 포함된다.",
-    "link": "https://www.chosun.com/economy/economy_general/2022/03/07/MEJ7MLIT2RDIDI7I6PU5ILBDPE",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "규제",
-    "content": "[서울=뉴시스]이재준 기자 = 토니 블링컨 미국 국무장관은 6일(현지시간) 러시아의 우크라이나 침공 이래 여러 차례 암살 기도를 받은 볼로디미르 젤렌스키 대통령이 피살당한다 해도 어떻게든 우크라이나 정부의 연속성을 유지해 나갈 계획이라고 밝혔다. CNN 등에 따르면 블링컨 국무장관은 이날 CBS 방송 '페이스 더 네이션(Face the Nation)'과 가진 인터뷰에서 젤렌스키 우크라이나 대통령이 살해되는 유고의 경우에도 우크라이나 국민이 정부를 지속시킬 방침이라고 말했다.",
-    "link": "https://newsis.com/view/?id=NISX20220307_0001783616&cID=10101&pID=10100",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "규제",
-    "content": "'우크라이나 국제의용군'에 참여하겠다며 최근 출국한 해군특수전전단(UDT/SEAL) 출신 유튜버 이근씨(예비역 대위)가 현재 우크라이나 체류 중인 사실을 정부가 확인한 것으로 알려졌다. 정부 소식통은 8일 \"이씨가 우크라이나에 들어간 걸로 파악됐다\"며 \"다만 현재 위치가 정확히 어딘지는 알지 못한다\"고 전했다.",
-    "link": "https://www.news1.kr/articles/?4609094",
-    "time": "2022-00-00",
-    "source": "뉴스1",
-    "category": "history"
-  },
-  {
-    "title": "규제",
-    "content": "[서울=뉴시스] 박은비 기자 = 시중은행들이 우크라이나 분쟁지역에 진출하거나 진출 예정인 피해기업들의 금융지원에 나선다. 신규 대출 지원, 기존 대출 만기 연장, 금리·수수료 감면 등이다. 8일 은행권에 따르면 KB국민·신한·하나·우리은행은 최근 우크라이나 사태 관련 피해기업 금융지원을 결정했다. 러시아, 우크라이나 분쟁지역 현지법인 또는 공장 설립 등을 통해 진출한 기업, 지난해 1월 이후 분쟁지역과 수출입 거래 실적이나 존재하거나 예정된 기업, 연관된 협력·납품업체 등 기타 피해기업 등이 대상이다.",
-    "link": "https://newsis.com/view/?id=NISX20220308_0001786421&cID=10401&pID=10400",
-    "time": "2022-00-00",
-    "source": "뉴시스",
-    "category": "history"
-  },
-  {
-    "title": "규제",
-    "content": "블라디미르 푸틴 러시아 대통령은 7일(현지 시각) 우크라이나를 침공한 러시아군이 징집병을 더는 전투에 참여시키지 않기로 했다고 밝혔다. 로이터 통신 등 외신에 따르면 푸틴 대통령은 이날 세계 여성의 날을 기념해 방송된 메시지에서 “징집병은 전투에 참여하지 않고 있으며 참가하지 않을 것이란 점을 강조한다. 아울러 추가적인 예비군 소집도 없을 것”이라고 말했다.",
-    "link": "https://biz.chosun.com/international/international_general/2022/03/08/XVMJZTZTNBCXZBPFFZR2BK5T2I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "time": "2022-00-00",
-    "source": "조선비즈",
-    "category": "history"
-  }
+﻿[
+    {
+        "name": "美항만 적체에 대러 규제까지…더 꼬인 해운물류",
+        "description": "러시아의 우크라이나 침공에 따른 서방국가들의 제재로 항공·해상 물류에 차질이 발생한 가운데 선원 인력수급에도 차질이 생겨 물류난이 더 \n심각해질...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/03/232045/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "러시아-우크라이나 첫 협상 종료...'플라스틱 규제' 환경총회 개막",
+        "description": "우크라이나와 러시아 대표단의 평화협상이 종료됐습니다. ... 플라스틱 규제를 위한 국제조약의 토대를 마련할 유엔환경총회가 시작됐다는 \n소식,...",
+        "link": "https://www.voakorea.com/a/6462943.html",
+        "date": "2주 전",
+        "image_path": "https://gdb.voanews.com/01b10000-0aff-0242-f42f-08d9fab87f48_w1200_r1.jpeg",
+        "catagory": "규제"
+    },
+    {
+        "name": "은행들, 러 주재원 등 신용대출시 DSR·연소득 규제 제외할 듯",
+        "description": "우크라이나 사태에 따른 대(對)러시아 제재로 어려움을 겪는 러시아 체류자와 가족들의 원활한 금융 거래를 돕기 위해 은행권이 지원에 \n나선다.",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/03/241947/",
+        "date": "2시간 전",
+        "image_path": "https://file.mk.co.kr/meet/yonhap/2022/03/16/image_readtop_2022_241947_0_134211.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "[우크라이나 침공] 미국의 러시아산 보드카 수입규제 하나마나 ...",
+        "description": "[우크라이나 침공] 미국의 러시아산 보드카 수입규제 하나마나...왜? 입력 2022-03-13 16:23. 배수경 기자 구독하기. \n제보하기.",
+        "link": "https://www.etoday.co.kr/news/view/2113554",
+        "date": "3일 전",
+        "image_path": "https://img.etoday.co.kr/pto_db/2022/03/600/20220313162015_1727573_1200_800.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "'우크라이나 침공' 미국‧일본 규제강화…'두테르테 중립'",
+        "description": "우크라이나 침공' 미국‧일본 규제강화… ... 러시아의 '우크라이나 침공'을 두고 미국과 일본은 전략과 추가제재안을 고려하고 있는 \n것으로 알려졌다...",
+        "link": "https://www.kukinews.com/newsView/kuk202203060051",
+        "date": "1주 전",
+        "image_path": "http://www.kukinews.com/data/kuk/image/2022/03/06/kuk202203060095.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "우크라이나 정부, 암호화폐 기부 웹사이트 출시...FTX·에버스테이크 참여 등",
+        "description": "해당 법안을 발의한 마가렛 크로크 의원은 \"연방 차원에서 보다 명확한 암호화폐 규제 지침이 있어야 한다. 일리노이 주는 비트코인을 \n법정화폐로 인정...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/03/236729/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/meet/neds/2022/03/image_readtop_2022_236729_16473044374975149.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "요란하게 회의하더니…한국만 對러 수출규제 면제권 못 받아 - 조선비즈",
+        "description": "미국이 우크라이나 침공의 책임을 물어 러시아에 대한 수출 통제를 발표했다. 러시아로 가는 수출품 중 미국산 기술이 들어간 제품이 통제 \n대상인데,...",
+        "link": "https://biz.chosun.com/policy/policy_sub/2022/02/28/DLGXASQQKRC2BH4IVHILW26DBQ/",
+        "date": "2주 전",
+        "image_path": "https://biz.chosun.com/resizer/nc2BCbwboj3qjkDpCMn2lyxj-wg=/616x323/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/H6QKUK3KI5CBHBOQXVMGZB5WIE.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "15일부터 우크라이나 사태 피해기업 특례보증 지원 실시",
+        "description": "신용보증기금(신보)과 기술보증기금(기보)은 우크라이나 사태에 따라 무역규제, 대금결제 차질 등 어려움을 겪는 중소기업의 유동성을 \n지원하기 위해...",
+        "link": "https://www.mk.co.kr/news/economy/view/2022/03/235820/",
+        "date": "1일 전",
+        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
+        "description": "그러나 페이스북과 트위터 등 소셜 미디어 플랫폼은 서방의 제재와 러시아의 규제기관의 압박을 동시에 받는 상황에 놓이게 되었다. 최 \n은창. 2022년 3월...",
+        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
+        "date": "6일 전",
+        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "catagory": "규제"
+    },
+    {
+        "name": "제로 코로나 역풍에 우크라 전쟁까지...中 시진핑 권력에도 ‘균열’ - 조선비즈",
+        "description": "15일(현지 시각) 월스트리트저널(WSJ)은 중국 정부 내 정책입안자들이 시진핑 정권의 잇단 규제 강화와 제로 코비드 정책, 우크라이나 \n침량을 단행한...",
+        "link": "https://biz.chosun.com/international/international_general/2022/03/16/WCDMOGDJL5BI7KAGOCCKLUDXVY/",
+        "date": "1시간 전",
+        "image_path": "https://biz.chosun.com/resizer/3oZzko5nXPGJH8bwntmunujIVEM=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/REKVGNOGPFL2LCMHBYFN4B7C3U.jpg",
+        "catagory": "규제"
+    }
 ]

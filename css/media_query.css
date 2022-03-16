@@ -11,6 +11,9 @@
     margin-bottom: 60px;
   }
 
+  .main-header {
+    gap: 1rem;
+  }
   .sponsor {
     display: none;
   }
@@ -23,10 +26,11 @@
 
   .news h2 {
     font-size: 25px;
+    flex-shrink: 0;
   }
 
   .search {
-    width: 200px;
+    width: 260px;
     height: 3rem;
   }
 
@@ -48,24 +52,26 @@
   }
 
   .card-img-frame {
-    min-width: 144px;
+    width: 144px;
     margin-right: 10px;
   }
 
-  .card-cont {
-    width: calc(100% - 150px);
-  }
-
   .card-tit {
+    display: block;
+    min-width: 200px;
     font-size: 20px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .button-more {
     margin: 0 auto 10px;
+    margin-bottom: 60px;
   }
 
   /* modal: 심채영 */
-  /* .sponsor {
+  .modal-background .sponsor {
+    position: relative;
     display: flex;
     flex-direction: column;
     width: 380px;
@@ -75,61 +81,48 @@
     box-sizing: border-box;
     background-color: #f5f5f5;
   }
-  .sponsor h2 {
+  .modal-background .sponsor h2 {
     margin-bottom: 33px;
     font-size: 20px;
     font-weight: bold;
     color: #015bbb;
     line-height: 29px;
   }
-  .sponsor-card {
+  .modal-background .sponsor-card {
     display: flex;
     flex-wrap: wrap;
     padding: 14px 20px;
     background-color: #fff;
   }
-  .sponsor-card.first {
-    padding: 23px 32px;
+  .modal-background .sponsor-card.first {
+    /* padding: 23px 32px; */
   }
-  .sponsor-card img {
+  .modal-background .sponsor-card img {
     width: 40px;
     height: 40px;
     margin-right: 10px;
   }
-  .sponsor-card h3 {
+  .modal-background .sponsor-card h3 {
     font-weight: bold;
     font-size: 20px;
     line-height: 29px;
     color: #333;
   }
-  .sponsor-card p {
+  .modal-background .sponsor-card p {
     color: #767676;
     line-height: 23px;
   }
-  .sponsor-list li:not(:first-child) {
+  .modal-background .sponsor-list li:not(:first-child) {
     margin-top: 8px;
   }
 
   .btn-close {
     position: absolute;
-    right: 25%;
+    right: 10%;
   }
 
   .modal-background {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background-color: rgba(0, 0, 0, 0.3);
-    z-index: 1000;
-  } */
-
-  .modal-background {
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     position: fixed;
@@ -184,5 +177,21 @@
 
   .scroll-up-btn span {
     padding: 12px 0 0;
+  }
+
+  /* loading page */
+  .loader {
+    top: 350px;
+  }
+}
+@media screen and (max-width: 500px) {
+  html[lang='uk'] .main-header,
+  html[lang='en'] .main-header {
+    flex-wrap: wrap;
+  }
+
+  html[lang='uk'] .main-header .search,
+  html[lang='en'] .main-header .search {
+    width: 100%;
   }
 }

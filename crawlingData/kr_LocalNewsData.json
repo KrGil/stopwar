@@ -1,50 +1,82 @@
-[
-  {
-    "title": "지역 라이브 상황",
-    "content": "블라디미르 푸틴 러시아 대통령이 외교적, 군사적 수단을 가리지 않고 우크라이나에서 목표를 달성하겠다는 의지를 에마뉘엘 마크롱 프랑스 대통령에게 피력했다는 외신 보도가 나왔다.",
-    "link": "https://news.imaeil.com/page/view/2022030707253006035",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "지역 라이브 상황",
-    "content": "관세청은 우크라이나 분쟁 사태로 어려움을 겪는 수출입 기업에 대해 관세 납부기한을 15일에서 1년으로 연장하는 등 관세행정 종합대책을 시행한다고 7일 밝혔다. 러시아나 우크라이나 소재 기업과 직접 수출입 거래를 하고 있는 기업뿐 아니라 분쟁 여파에 따른 원자재 가격 상승, 수급 불안, 물류 지체로 간접적인 피해를 받은 수출입 기업까지 지원 대상에 포함된다.",
-    "link": "https://www.chosun.com/economy/economy_general/2022/03/07/MEJ7MLIT2RDIDI7I6PU5ILBDPE",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "지역 라이브 상황",
-    "content": "[서울=뉴시스]이재준 기자 = 토니 블링컨 미국 국무장관은 6일(현지시간) 러시아의 우크라이나 침공 이래 여러 차례 암살 기도를 받은 볼로디미르 젤렌스키 대통령이 피살당한다 해도 어떻게든 우크라이나 정부의 연속성을 유지해 나갈 계획이라고 밝혔다. CNN 등에 따르면 블링컨 국무장관은 이날 CBS 방송 '페이스 더 네이션(Face the Nation)'과 가진 인터뷰에서 젤렌스키 우크라이나 대통령이 살해되는 유고의 경우에도 우크라이나 국민이 정부를 지속시킬 방침이라고 말했다.",
-    "link": "https://newsis.com/view/?id=NISX20220307_0001783616&cID=10101&pID=10100",
-    "time": "2022-00-00",
-    "source": "일보일보",
-    "category": "history"
-  },
-  {
-    "title": "지역 라이브 상황",
-    "content": "'우크라이나 국제의용군'에 참여하겠다며 최근 출국한 해군특수전전단(UDT/SEAL) 출신 유튜버 이근씨(예비역 대위)가 현재 우크라이나 체류 중인 사실을 정부가 확인한 것으로 알려졌다. 정부 소식통은 8일 \"이씨가 우크라이나에 들어간 걸로 파악됐다\"며 \"다만 현재 위치가 정확히 어딘지는 알지 못한다\"고 전했다.",
-    "link": "https://www.news1.kr/articles/?4609094",
-    "time": "2022-00-00",
-    "source": "뉴스1",
-    "category": "history"
-  },
-  {
-    "title": "지역 라이브 상황",
-    "content": "[서울=뉴시스] 박은비 기자 = 시중은행들이 우크라이나 분쟁지역에 진출하거나 진출 예정인 피해기업들의 금융지원에 나선다. 신규 대출 지원, 기존 대출 만기 연장, 금리·수수료 감면 등이다. 8일 은행권에 따르면 KB국민·신한·하나·우리은행은 최근 우크라이나 사태 관련 피해기업 금융지원을 결정했다. 러시아, 우크라이나 분쟁지역 현지법인 또는 공장 설립 등을 통해 진출한 기업, 지난해 1월 이후 분쟁지역과 수출입 거래 실적이나 존재하거나 예정된 기업, 연관된 협력·납품업체 등 기타 피해기업 등이 대상이다.",
-    "link": "https://newsis.com/view/?id=NISX20220308_0001786421&cID=10401&pID=10400",
-    "time": "2022-00-00",
-    "source": "뉴시스",
-    "category": "history"
-  },
-  {
-    "title": "지역 라이브 상황",
-    "content": "블라디미르 푸틴 러시아 대통령은 7일(현지 시각) 우크라이나를 침공한 러시아군이 징집병을 더는 전투에 참여시키지 않기로 했다고 밝혔다. 로이터 통신 등 외신에 따르면 푸틴 대통령은 이날 세계 여성의 날을 기념해 방송된 메시지에서 “징집병은 전투에 참여하지 않고 있으며 참가하지 않을 것이란 점을 강조한다. 아울러 추가적인 예비군 소집도 없을 것”이라고 말했다.",
-    "link": "https://biz.chosun.com/international/international_general/2022/03/08/XVMJZTZTNBCXZBPFFZR2BK5T2I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "time": "2022-00-00",
-    "source": "조선비즈",
-    "category": "history"
-  }
+﻿[
+    {
+        "name": "[LIVE] 러시아,우크라이나 침공 실시간 업데이트…키예프 함락 초읽기",
+        "description": "러시아의 우크라이나 침공 관련 뉴스를 실시간 업데이트한다. ... 자료를 통해 두 정상이 이날 우크라이나의 최근 상황과 관련해 \n통화했다고 밝혔다.",
+        "link": "https://www.joongang.co.kr/article/25051052",
+        "date": "3주 전",
+        "image_path": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202202/25/8f3bb888-6ab3-45df-9fe1-12cc56e489a0.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "\"우크라이나 무사하길\" SNS로 현지 상황 보며 평화 기원하는 ...",
+        "description": "트위터와 인스타그램 등 SNS에는 미사일 폭격으로 공항과 무기 저장고를 비롯한 시설이 폭발하거나 전투기가 비행하는 영상이 실시간으로 \n업로드됐다.",
+        "link": "https://www.hankookilbo.com/News/Read/A2022022502490002078",
+        "date": "3주 전",
+        "image_path": "https://newsimg-hams.hankookilbo.com/2022/02/25/9abccb7c-dda3-4583-adf4-2239a0b30236.jpg?t=20220316071828",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "일본에서 보는 우크라이나 전쟁 : 칼럼 : 사설.칼럼 : 뉴스",
+        "description": "지난달 24일 러시아가 우크라이나를 침공했다. 일본에서도 방송, 신문, 사회관계망서비스(SNS)를 통해 우크라이나 상황이 실시간으로 \n전달되고 있다.",
+        "link": "https://www.hani.co.kr/arti/opinion/column/1033374.html",
+        "date": "2주 전",
+        "image_path": "https://flexible.img.hani.co.kr/flexible/normal/851/456/imgdb/child/2022/0304/16463610722411_20211230502501.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 전쟁의 이면: 서방과 러시아의 허위 정보전",
+        "description": "볼로디미르 젤렌스키 우크라이나 대통령도 소셜 미디어를 이용해 전 세계에 실시간으로 전쟁 상황을 알리고 있다. 반대로 거짓과 잘못된 \n정보가...",
+        "link": "https://www.technologyreview.kr/%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98-%EC%A0%84%EC%9F%81%EC%9D%98-%EC%9D%B4%EB%A9%B4-%EC%84%9C%EB%B0%A9%EA%B3%BC-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%98-%ED%97%88%EC%9C%84-%EC%A0%95%EB%B3%B4/",
+        "date": "6일 전",
+        "image_path": "https://www.technologyreview.kr/wp-content/uploads/2022/03/러시-1.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "“우크라이나 전쟁 현장을 게임 방송하듯 생방송”···MBC, 유튜브 생중계 논란",
+        "description": "'MBC 뉴스' 유튜브 채널에서 “[끝까지 LIVE] '러시아, 우크라이나 침공' 현지 상황 실시간 영상'이라는 제목으로 방송되고 있는 \n이 영상은 키예프...",
+        "link": "https://m.khan.co.kr/national/national-general/article/202202281551001",
+        "date": "2주 전",
+        "image_path": "No Image",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "구글, 우크라이나 도로 실시간 보여주는 구글맵 기능 차단 - 조선비즈",
+        "description": "구글이 자체 지도인 구글맵에서 우크라이나 현지 도로 상황을 실시간으로 보여주는 기능을 일시적으로 차단했다고 로이터 통신이 27일(현지 \n시각)...",
+        "link": "https://biz.chosun.com/international/international_economy/2022/02/28/WVWZY6TZXNAKPE7763VTNPMTLI/",
+        "date": "2주 전",
+        "image_path": "https://biz.chosun.com/resizer/hlEtKtUn5o2BPs4hEPyyL0e0Wps=/828x434/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/LTWBFK6BNND4NNWNBH2FJAMHEE.jpeg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "[톺뉴스] 틱톡으로 들여다보는 우크라이나 전쟁",
+        "description": "(서울=연합뉴스) 러시아의 전격적인 침공으로 시작된 우크라이나 전쟁이 열흘 ... 틱톡으로 들여다보는 우크라이나의 실시간 상황과 전쟁을 \n반대하는...",
+        "link": "https://www.yna.co.kr/view/MYH20220304016700797",
+        "date": "1주 전",
+        "image_path": "https://img4.yna.co.kr/mpic/YH/2022/03/04/MYH20220304016700797.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 CCTV 생중계... 공영방송의 한심한 '전쟁 보도'",
+        "description": "우크라이나 키에프 현장 영상을 실시간으로 전해 드립니다. ... 현장 상황에 따라 영상 송출이 원활하지 않을 수 있는 점 양해 \n부탁드립니다.\"",
+        "link": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002813836",
+        "date": "2주 전",
+        "image_path": "http://ojsfile.ohmynews.com/CRI_T_IMG/2022/0226/A0002813836_T.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라이나 운명의 날...현지 실시간 영상 | 모바일 JTBC뉴스",
+        "description": "러시아가 우크라이나를 침공한 가운데 26일(현지시간) 새벽에도 러시아군 ... JTBC는 우크라이나 현지 상황을 유튜브 실시간으로 \n중계하고 있습니다.",
+        "link": "https://news.jtbc.joins.com/html/650/NB12048650.html",
+        "date": "2주 전",
+        "image_path": "https://photo.jtbc.joins.com/news/jam_photo/202202/26/b24bc623-ba1a-4f53-a517-170d29bb03ff.jpg",
+        "catagory": "지역 라이브 상황"
+    },
+    {
+        "name": "우크라 전쟁 상황 실시간으로 본다고?…머스크의 `이것` 덕분 [위클리기사단]",
+        "description": "우크라이나 수도 키이우(키예프)의 건물이 폭발하고 민간인 거주 시설에 떨어지는 러시아군의 포탄 세례가 인터넷을 통해 전 세계로 \n실시간으로 퍼져...",
+        "link": "https://www.mk.co.kr/news/world/view/2022/03/233534/",
+        "date": "2일 전",
+        "image_path": "https://file.mk.co.kr/news/facebook_mknews.jpg",
+        "catagory": "지역 라이브 상황"
+    }
 ]

@@ -1,12 +1,14 @@
 # 🖐StopWar
-우크라이나 전쟁관련 소식 제공 비영리 서비스
+- 우크라이나 전쟁관련 소식 제공 비영리 서비스
+- 서비스 링크 : www.stopwar.co.kr
 
 ## 목적
-- 플랫폼 별 **다양한 전쟁 관련 뉴스** 및 우크라이나 대사관에 **금전적으로 후원할 수 있는 수단**을 아카이빙하여 전쟁 상황에 대해 한 눈에 파악하는 것이 목적입니다.
+- 플랫폼 별 **다양한 전쟁 관련 뉴스** 를 항목별 아카이빙하여 전쟁 상황을 한 눈에 파악
+- 우크라이나에 **금전적으로 후원할 수 있는 수단**을 아카이빙하여 후원에 대한 접근성 향상
  
 ## 멤버
 - PM
-    - 이호준
+    - [이호준](https://github.com/paullabkorea)
 - 기획
     - 현재국, [이한나](https://github.com/yeeehannah)
 - 디자인
@@ -20,16 +22,18 @@
 ## 폴더 트리
 * crawler : 뉴스 크롤링
 * crawlingData : 크롤링된 데이터셋
-* staticAsset : 정적 파일(CSS, JS, etc)
+* css, font, html, image, js : 정적 파일
 
 ## 데이터 구조
 ```javascript
-[{
-    name : '우크라이나 뉴스기사...', //제목
-    description : '러시아와 우크라이나의...', //내용
-    date : '3일 전', // 날짜(협의)
-    link : 'URL',   //클릭하면 들어갈 수 있는 url
-    image_path : 'crawlingData\\img\\러시아우크라이나 ... .png',
-    category : 'history' // 카테고리
-}, ...]
-```
+[
+    {
+        "name": "Opinion | Will Sanctions on Russia Help Ukraine?",
+        "description": "The sanctions are raising the price of Russia's belligerence and can \ndegrade its capacity to pursue this campaign of terror, or others,...",
+        "link": "https://www.nytimes.com/2022/03/11/opinion/russia-sanctions.html",
+        "date": "2일 전",
+        "image_path": "",
+        "catagory": "교전 최신 상황"
+    } ...
+]
+``` 
