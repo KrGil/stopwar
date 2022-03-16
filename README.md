@@ -26,17 +26,6 @@
 
 ## 데이터 구조
 ```javascript
-<<<<<<< HEAD
-[{
-    name : '우크라이나 뉴스기사...', //제목
-    description : '러시아와 우크라이나의...', //내용
-    date : '3일 전', // 날짜(협의)
-    link : 'URL',   //클릭하면 들어갈 수 있는 url
-    image_path : 'crawlingData\\img\\러시아우크라이나 ... .png',
-    category : 'history' // 카테고리
-}, ...]
-```
-=======
 [
     {
         "name": "Opinion | Will Sanctions on Russia Help Ukraine?",
@@ -48,4 +37,3 @@
     } ...
 ]
 ``` 
->>>>>>> 64e2fd41c9cf29f40cd564140358ccad0a74c001
